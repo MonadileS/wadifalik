@@ -7,7 +7,7 @@
 <xsl:template match="/">
 	<html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
-		<title>XML Sitemap - Wadifalik</title>
+		<title>XML Sitemap - Wadifalik</title><style id="wadifalik-a11y">.td-post-date,.entry-date,.td-module-meta-info .td-post-date{color:#4a4a4a!important;opacity:1!important}.td-module-meta-info a,.td-post-author-name a,.td_module_wrap .td-post-author-name a,.td-author-inline{color:#0a66a8!important}.td-module-comments a,.td_module_wrap .td-module-comments a{background-color:#0a66a8!important;color:#fff!important;min-width:24px;min-height:24px;padding:4px 7px}.td-post-category,.td_module_wrap .td-post-category{background-color:#0a66a8!important;color:#fff!important;display:inline-block;padding:4px 9px;min-height:24px;line-height:16px}.td-trending-now-wrapper a,.td_trending_now_widget .entry-title a,.td-trending-now-title{color:#0a66a8!important}.tdm-social-item{width:40px!important;height:40px!important}.tdm-social-item i{line-height:40px!important;font-size:15px!important}.td-image-wrap{min-height:24px}</style>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<style type="text/css">
 			body {
