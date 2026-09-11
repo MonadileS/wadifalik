@@ -2,7 +2,47 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://wadifalik.ma/</loc>
-		<lastmod>2026-08-19T16:21:52+00:00</lastmod>
+		<lastmod>2026-09-10T20:43:20+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://wadifalik.ma/select-plan-today-news-pro/</loc>
+		<lastmod>2026-09-10T20:43:20+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://wadifalik.ma/search-modal-today-news-pro/</loc>
+		<lastmod>2026-09-10T20:43:20+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://wadifalik.ma/my-account-today-news-pro/</loc>
+		<lastmod>2026-09-10T20:43:19+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://wadifalik.ma/login-register-today-news-pro/</loc>
+		<lastmod>2026-09-10T20:43:19+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://wadifalik.ma/checkout-today-news-pro/</loc>
+		<lastmod>2026-09-10T20:43:18+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://wadifalik.ma/tds-login-register/</loc>
+		<lastmod>2026-09-10T20:43:05+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://wadifalik.ma/tds-my-account/</loc>
+		<lastmod>2026-09-10T20:43:04+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://wadifalik.ma/tds-checkout/</loc>
+		<lastmod>2026-09-10T20:43:03+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://wadifalik.ma/concours-maroc/</loc>
+		<lastmod>2026-09-08T19:09:49+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://wadifalik.ma/privacy-policy/</loc>
+		<lastmod>2026-08-24T18:55:30+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://wadifalik.ma/contact/</loc>
